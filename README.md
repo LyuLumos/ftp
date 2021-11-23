@@ -17,4 +17,4 @@
 
 **Malware Detection**
 
-- A Comparison of Static, Dynamic, and Hybrid Analysis for Malware Detection. [Article](http://www.cs.sjsu.edu/faculty/stamp/papers/Anusha.pdf) [Note](./HMM-MalwareDetection.pdf)
+- A Comparison of Static, Dynamic, and Hybrid Analysis for Malware Detection. [Article](http://www.cs.sjsu.edu/faculty/stamp/papers/Anusha.pdf) [Note](HMM%20-%20Malware%20Detection.pdf)
