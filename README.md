@@ -1,6 +1,6 @@
 **Shadowed Domain**
 
-- Don’t Let One Rotten Apple Spoil the Whole Barrel: Towards Automated Detection of Shadowed Domains. CCS 2017. [Article](https://www.eecis.udel.edu/~hnw/paper/ccs17.pdf) [Note](Don’t%20Let%20One%20Rotten%20Apple%20Spoil%20the%20Whole%20Barrel.pdf)
+- Don't Let One Rotten Apple Spoil the Whole Barrel: Towards Automated Detection of Shadowed Domains. CCS 2017. [Article](https://www.eecis.udel.edu/~hnw/paper/ccs17.pdf) [Note](Don’t%20Let%20One%20Rotten%20Apple%20Spoil%20the%20Whole%20Barrel.pdf)
 
 **One-time-use Domain**
 
@@ -18,3 +18,4 @@
 **Malware Detection**
 
 - A Comparison of Static, Dynamic, and Hybrid Analysis for Malware Detection. [Article](http://www.cs.sjsu.edu/faculty/stamp/papers/Anusha.pdf) [Note](HMM%20-%20Malware%20Detection.pdf)
+- Deep Android Malware Detection. CODASPY 2017. [Article](https://dora.dmu.ac.uk/bitstream/handle/2086/16947/Deep-Android-Malware-Detection.pdf?sequence=1&isAllowed=y) [Note](Deep Android Malware Detection.pdf)
