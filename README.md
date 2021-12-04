@@ -14,6 +14,7 @@
 **BGP Anomaly Detection**
 
 - MS-LSTM: a Multi-Scale LSTM Model for BGP Anomaly Detection. ICNP 2016. [Article](https://www.covert.io/research-papers/deep-learning-security/MS-LSTM%20-%20a%20Multi-Scale%20LSTM%20Model%20for%20BGP%20Anomaly%20Detection.pdf) [Note](MS-LSTM.pdf)
+- BGP Dataset Generation and Feature Extraction for Anomaly Detection. ISCC 2019. [Article](https://ieeexplore.ieee.org/abstract/document/8969619) [Note](BGPdataset.pdf)
 
 **Malware Detection**
 
