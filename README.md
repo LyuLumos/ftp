@@ -24,3 +24,7 @@
 **NIDS** (Network Intrusion Detection System)
 
 - Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis. CCS 2021. [Article](https://arxiv.org/pdf/2106.14707v3.pdf) [Note](NIDS-Whisper.pdf)
+
+**Social Network**
+
+- COMPA: Detecting Compromised Accounts on Social Networks. NDSS 2013. [Article](https://sites.cs.ucsb.edu/~chris/research/doc/ndss13_compa.pdf) [Note](COMPA%20Detecting%20Compromised%20Accounts%20on%20Social%20Networks.pdf)
