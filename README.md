@@ -28,3 +28,7 @@
 
 - COMPA: Detecting Compromised Accounts on Social Networks. NDSS 2013. [Article](https://sites.cs.ucsb.edu/~chris/research/doc/ndss13_compa.pdf) [Note](COMPA%20Detecting%20Compromised%20Accounts%20on%20Social%20Networks.pdf)
 - You are How You Click: Clickstream Analysis for Sybil Detection. USENIX Security 2013. [Article](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_wang_0.pdf) [Note](You%20are%20How%20You%20Click.pdf)
+
+**Botnet**
+
+- A P2P Botnet detection scheme based on decision tree and adaptive multilayer neural networks. [Ariticle](https://www.researchgate.net/publication/308880369_A_P2P_Botnet_detection_scheme_based_on_decision_tree_and_adaptive_multilayer_neural_networks) [Note](A%20P2P%20Botnet%20detection%20scheme.pdf)
