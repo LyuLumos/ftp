@@ -32,4 +32,4 @@
 
 **Botnet**
 
-- A P2P Botnet detection scheme based on decision tree and adaptive multilayer neural networks. [Ariticle](https://www.researchgate.net/publication/308880369_A_P2P_Botnet_detection_scheme_based_on_decision_tree_and_adaptive_multilayer_neural_networks) [Note](A%20P2P%20Botnet%20detection%20scheme.pdf)
+- A P2P Botnet detection scheme based on decision tree and adaptive multilayer neural networks. Neural Comput & Applic 2018. [Article](https://www.researchgate.net/publication/308880369_A_P2P_Botnet_detection_scheme_based_on_decision_tree_and_adaptive_multilayer_neural_networks) [Note](A%20P2P%20Botnet%20detection%20scheme.pdf)
