@@ -10,6 +10,7 @@
 **Binary Code Similarity Detection**
 
 - Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection. CCS 2017. [Article](https://dl.acm.org/doi/pdf/10.1145/3133956.3134018) [Note](Neural%20Network-based%20Graph%20Embedding%20for%20Cross-Platform%20Binary%20Code%20Similarity%20Detection.pdf)
+- Order Matters: Semantic-Aware Neural Networks for Binary Code Similarity Detection. AAAI 2021. [Article](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf) [Note](Order%20Matters%20Semantic-Aware%20Neural%20Networks%20for%20Binary%20Code%20Similarity%20Detection.pdf)
 
 **BGP Anomaly Detection**
 
