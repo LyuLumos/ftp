@@ -21,7 +21,7 @@
 
 - A Comparison of Static, Dynamic, and Hybrid Analysis for Malware Detection. [Article](http://www.cs.sjsu.edu/faculty/stamp/papers/Anusha.pdf) [Note](HMM%20-%20Malware%20Detection.pdf)
 - Deep Android Malware Detection. CODASPY 2017. [Article](https://dora.dmu.ac.uk/bitstream/handle/2086/16947/Deep-Android-Malware-Detection.pdf?sequence=1&isAllowed=y) [Note](Deep%20Android%20Malware%20Detection.pdf)
-
+- A Machine Learning Framework for Domain Generation Algorithm-Based Malware Detection. IEEE Access 2019. [Article](https://ieeexplore.ieee.org/document/8631171) [Note](A%20Machine%20Learning%20Framework%20for%20DGA-Based%20Malware%20Detection.pdf)
 
 **NIDS** (Network Intrusion Detection System)
 
